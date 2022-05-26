@@ -9,3 +9,8 @@ Eis alguns temas que temos pesquisado:
 - Modelagem e controle de sistemas de geração solar visando o ponto de máxima potência;
 - Diagnóstico baseada em gás dissolvido em óleo e classificação de defeitos em transformadores de potência;
 - Produção de conteúdo STEM envolvendo simulações, protótipos didáticos, apresentações e animações para as áreas de processamento de sinais, identificação de sistemas e controle;
+
+
+## Minicurso:
+
+- [Aquisição e geração de sinais com arduino e python](https://github.com/raphateixeira/Minicurso-SinalPyIno/blob/main/README.md)
