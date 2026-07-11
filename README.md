@@ -2,7 +2,7 @@
 
 # Raphael Teixeira
 
-### Professor · Matemática Aplicada, Sistemas Dinâmicos, Identificação e Controle
+### Professor · Matemática Aplicada, Sistemas Dinâmicos, Identificação, Controle e Inteligência Computacional.
 
 [![Website](https://img.shields.io/badge/site-raphateixeira.github.io-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://raphateixeira.github.io/)
 [![Twitter](https://img.shields.io/badge/twitter-%40TxRaphael-1f6feb?style=flat-square&logo=x&logoColor=white)](https://twitter.com/@RaphaelTei66265)
