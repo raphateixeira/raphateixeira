@@ -34,18 +34,59 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 | [AlgebraLinear](https://github.com/raphateixeira/AlgebraLinear) | Álgebra Linear (UFPA) |
 | [TEControle](https://github.com/raphateixeira/TEControle) | Tópicos Especiais em Controle e Aprendizagem de Máquina |
 
-### 🚀 Projetos em destaque
+### ⚡ Controle & eletrônica de potência
+
+- **[ControleBuck](https://github.com/raphateixeira/ControleBuck)** — controle de conversor Buck
+- **[ControleVSI](https://github.com/raphateixeira/ControleVSI)** / **[ControleVSC](https://github.com/raphateixeira/ControleVSC)** — controle de inversores e conversores de fonte de tensão
+- **[ControleDFIG](https://github.com/raphateixeira/ControleDFIG)** — controle de gerador de indução duplamente alimentado (aerogeradores)
+- **[MPCemulacaoRNA](https://github.com/raphateixeira/MPCemulacaoRNA)** — controle preditivo (MPC) com emulação por redes neurais
+- **[DataDrivenControl](https://github.com/raphateixeira/DataDrivenControl)** / **[IC-DataDrive](https://github.com/raphateixeira/IC-DataDrive)** — iniciação científica em controle orientado a dados
+
+### 🧪 Identificação de sistemas
+
+- **[Identificacao](https://github.com/raphateixeira/Identificacao)** — métodos de identificação de sistemas dinâmicos
+- **[IdentificaLSTM](https://github.com/raphateixeira/IdentificaLSTM)** — identificação de sistemas com redes LSTM
+- **[SistemasDinamicos](https://github.com/raphateixeira/SistemasDinamicos)** — modelagem e análise de sistemas dinâmicos
+
+### ⚙️ Protótipos, bancadas & laboratórios
 
 - **[LabVirtual](https://github.com/raphateixeira/LabVirtual)** — laboratório virtual para modelagem e controle de sistemas dinâmicos
-- **[SDI-DGA](https://github.com/raphateixeira/SDI-DGA)** / **[Dataset-DGA](https://github.com/raphateixeira/Dataset-DGA)** — diagnóstico inteligente de transformadores de potência por análise de gases dissolvidos
-- **[ControleBuck](https://github.com/raphateixeira/ControleBuck)** — controle de conversor Buck
-- **[FiltroSK](https://github.com/raphateixeira/FiltroSK)** — identificação e projeto de controladores para filtro Sallen-Key
-- **[IC-DataDrive](https://github.com/raphateixeira/IC-DataDrive)** / **[DataDrivenControl](https://github.com/raphateixeira/DataDrivenControl)** — iniciação científica em controle orientado a dados
+- **[LaboratorioControle](https://github.com/raphateixeira/LaboratorioControle)** — bancada didática de controle
+- **[TC-Lab](https://github.com/raphateixeira/TC-Lab)** — protótipo didático de sistema térmico
+- **[Projeto-Aeropendulo](https://github.com/raphateixeira/Projeto-Aeropendulo)** — projeto do aeropêndulo
+- **[FiltroSK](https://github.com/raphateixeira/FiltroSK)** — identificação e controle aplicados a filtro Sallen-Key
+- **[CircuitosCA](https://github.com/raphateixeira/CircuitosCA)** — notas de circuitos de corrente alternada
+
+### 🩺 Diagnóstico inteligente de equipamentos
+
+- **[SDI-DGA](https://github.com/raphateixeira/SDI-DGA)** — sistema de diagnóstico inteligente de transformadores de potência
+- **[Dataset-DGA](https://github.com/raphateixeira/Dataset-DGA)** — conjunto de dados de gases dissolvidos em óleo (DGA)
+
+### 🤖 Machine Learning, Deep Learning & leituras comentadas
+
 - **[AprendizagemMaquina](https://github.com/raphateixeira/AprendizagemMaquina)** — notas e notebooks de aprendizagem de máquina aplicada
+- **[DiffusionModels](https://github.com/raphateixeira/DiffusionModels)** — estudos sobre modelos de difusão
+- **[Manin](https://github.com/raphateixeira/Manin)** — notebooks de estudo
+- **[LivroDeepLearning](https://github.com/raphateixeira/LivroDeepLearning)** — notas do livro *Deep Learning* (Bishop)
+- **[Livro-DeepGenerativeModeling](https://github.com/raphateixeira/Livro-DeepGenerativeModeling)** — notas de *Deep Generative Modeling* (Tomczak)
+- **[Livro-DiveIntoDeepLearning](https://github.com/raphateixeira/Livro-DiveIntoDeepLearning)** — notas do *Dive into Deep Learning*
+- **[timesfm](https://github.com/raphateixeira/timesfm)** *(fork)* — estudo do TimesFM, modelo fundacional de séries temporais do Google Research
 
-### 🌱 Orientações em andamento
+### 🎓 Orientações — Mestrado & TCC
 
-Mestrado e TCC em modelagem chuva-vazão, controle MPC-FSC de conversores, gêmeos digitais e laboratórios remotos ([MScWanderley](https://github.com/raphateixeira/MScWanderley), [MScOseias](https://github.com/raphateixeira/MScOseias), [TCC-Oseias](https://github.com/raphateixeira/TCC-Oseias), [TCC-Diego](https://github.com/raphateixeira/TCC-Diego)).
+- **[MScWanderley](https://github.com/raphateixeira/MScWanderley)** — modelagem chuva-vazão em bacia hidrográfica
+- **[MScOseias](https://github.com/raphateixeira/MScOseias)** / **[TCC-Oseias](https://github.com/raphateixeira/TCC-Oseias)** — controle MPC-FSC de conversor VSC trifásico e gêmeo digital para laboratório virtual
+- **[MScOtacilio](https://github.com/raphateixeira/MScOtacilio)** — dissertação de mestrado em andamento
+- **[MScRaphael](https://github.com/raphateixeira/MScRaphael)** — dissertação de mestrado em andamento
+- **[TCC-Diego](https://github.com/raphateixeira/TCC-Diego)** — trabalho de conclusão de curso
+- **[Projeto_TCC_DPI_Thalyson](https://github.com/raphateixeira/Projeto_TCC_DPI_Thalyson)** *(fork)* — pêndulo duplo invertido com motor de indução linear
+
+### 🧰 Templates & ferramentas
+
+- **[TikZ](https://github.com/raphateixeira/TikZ)** — figuras em TikZ para materiais didáticos
+- **[TemplateNotas](https://github.com/raphateixeira/TemplateNotas)** / **[TemplateQuarto](https://github.com/raphateixeira/TemplateQuarto)** — templates de notas de aula em Quarto
+- **[Templates](https://github.com/raphateixeira/Templates)** — templates diversos
+- **[Matlab](https://github.com/raphateixeira/Matlab)** — scripts e utilitários MATLAB
 
 ### 🛠️ Stack
 
