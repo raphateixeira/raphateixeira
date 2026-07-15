@@ -42,8 +42,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 
 ### 🧪 Identificação de sistemas
 
-- **[Identificacao](https://github.com/raphateixeira/Identificacao)** — métodos de identificação de sistemas dinâmicos
-- **[IdentificaLSTM](https://github.com/raphateixeira/IdentificaLSTM)** — identificação de sistemas com redes LSTM
+- **[Identificacao](https://github.com/raphateixeira/Identificacao)** — métodos de identificação de sistemas dinâmicos (ajuste de reta, PRBS, ARX, modelo LIT)
 
 ### ⚙️ Protótipos, bancadas & laboratórios
 
@@ -54,8 +53,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 
 ### 🩺 Diagnóstico inteligente de equipamentos
 
-- **[SDI-DGA](https://github.com/raphateixeira/SDI-DGA)** — sistema de diagnóstico inteligente de transformadores de potência
-- **[Dataset-DGA](https://github.com/raphateixeira/Dataset-DGA)** — conjunto de dados de gases dissolvidos em óleo (DGA)
+- **[AnaliseDGA](https://github.com/raphateixeira/AnaliseDGA)** — sistema de diagnóstico inteligente de transformadores de potência (ANN, KNN, DUVAL), com o conjunto de dados de gases dissolvidos em óleo (DGA) usado no treinamento
 
 ### 🤖 Machine Learning, Deep Learning & leituras comentadas
 
@@ -64,7 +62,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 
 ### 🎓 Orientações — Mestrado & TCC
 
-- **[MScWanderley](https://github.com/raphateixeira/MScWanderley)** — modelagem chuva-vazão em bacia hidrográfica
+- **[IdentificacaoJusante](https://github.com/raphateixeira/IdentificacaoJusante)** — modelagem da dinâmica hidrológica para previsão do nível de jusante da UHE Tucuruí
 - **[MScOseias](https://github.com/raphateixeira/MScOseias)** — controle MPC-FSC de conversor VSC trifásico e gêmeo digital para laboratório virtual
 - **[MScRaphael](https://github.com/raphateixeira/MScRaphael)** — dissertação de mestrado
 - **[TCC-Diego](https://github.com/raphateixeira/TCC-Diego)** — trabalho de conclusão de curso
