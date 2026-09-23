@@ -38,7 +38,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 
 - **[ControleBuck](https://github.com/raphateixeira/ControleBuck)** — controle de conversor Buck
 - **[ControleDFIG](https://github.com/raphateixeira/ControleDFIG)** — controle de gerador de indução duplamente alimentado (aerogeradores)
-- **[IC-DataDrive](https://github.com/raphateixeira/IC-DataDrive)** — iniciação científica em controle orientado a dados
+- **[ControleCC2CC](https://github.com/raphateixeira/ControleCC2CC)** — IC em identificação e controle de conversores CC-CC (Buck, Boost, Buck-Boost)
 
 ### 🧪 Identificação de sistemas
 
@@ -65,7 +65,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 - **[IdentificacaoJusante](https://github.com/raphateixeira/IdentificacaoJusante)** — modelagem da dinâmica hidrológica para previsão do nível de jusante da UHE Tucuruí
 - **[MScOseias](https://github.com/raphateixeira/MScOseias)** — controle MPC-FSC de conversor VSC trifásico e gêmeo digital para laboratório virtual
 - **[MScRaphael](https://github.com/raphateixeira/MScRaphael)** — dissertação de mestrado
-- **[TCC-Diego](https://github.com/raphateixeira/TCC-Diego)** — trabalho de conclusão de curso
+- **[TCC-PID-AlgoritmoGenetico](https://github.com/raphateixeira/TCC-PID-AlgoritmoGenetico)** — trabalho de conclusão de curso
 
 ### 🧰 Templates & ferramentas
 
