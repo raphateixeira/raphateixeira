@@ -70,7 +70,6 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 ### 🧰 Templates & ferramentas
 
 - **[TikZ](https://github.com/raphateixeira/TikZ)** — figuras em TikZ para materiais didáticos
-- **[TemplateNotas](https://github.com/raphateixeira/TemplateNotas)** — template de notas de aula em Quarto
 
 ### 🛠️ Stack
 
