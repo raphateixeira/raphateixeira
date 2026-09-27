@@ -29,7 +29,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 |---|---|
 | [ControleClassico](https://github.com/raphateixeira/ControleClassico) | Sistemas de Controle I — controle clássico contínuo, função de transferência |
 | [ControleEstados](https://github.com/raphateixeira/ControleEstados) | Controle por espaço de estados |
-| [ControleDigital](https://github.com/raphateixeira/ControleDigital) | Sistemas de controle digital (Ogata, Aguirre) |
+| [Controle Digital](https://raphateixeira.github.io/Notas/fundamentos/controle-digital/) | Sistemas de controle digital (Ogata, Aguirre) — tema em [Notas](https://github.com/raphateixeira/Notas) |
 | [MetodosNumericos](https://github.com/raphateixeira/MetodosNumericos) | Fundamentos matemáticos e algoritmos numéricos |
 | [AlgebraLinear](https://github.com/raphateixeira/AlgebraLinear) | Álgebra Linear (UFPA) |
 | [TEControle](https://github.com/raphateixeira/TEControle) | Tópicos Especiais em Controle e Aprendizagem de Máquina |
@@ -42,7 +42,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 
 ### 🧪 Identificação de sistemas
 
-- **[Identificacao](https://github.com/raphateixeira/Identificacao)** — métodos de identificação de sistemas dinâmicos (ajuste de reta, PRBS, ARX, modelo LIT)
+- **[Identificação de Sistemas](https://raphateixeira.github.io/Notas/fundamentos/identificacao-sistemas/)** (em [Notas](https://github.com/raphateixeira/Notas)) — métodos de identificação de sistemas dinâmicos (ajuste de reta, PRBS, ARX, modelo LIT)
 
 ### ⚙️ Protótipos, bancadas & laboratórios
 
