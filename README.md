@@ -36,7 +36,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 
 ### ⚡ Controle & eletrônica de potência
 
-- **[ControleBuck](https://github.com/raphateixeira/ControleBuck)** — controle de conversor Buck
+- **[ConversoresPotencia](https://github.com/raphateixeira/ConversoresPotencia)** — conversor Buck, inversor trifásico e microrredes: simulação, firmware C2000 e ensaios
 - **[ControleDFIG](https://github.com/raphateixeira/ControleDFIG)** — controle de gerador de indução duplamente alimentado (aerogeradores)
 - **[ControleCC2CC](https://github.com/raphateixeira/ControleCC2CC)** — IC em identificação e controle de conversores CC-CC (Buck, Boost, Buck-Boost)
 
