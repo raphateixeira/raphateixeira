@@ -27,17 +27,17 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 
 | Disciplina | Conteúdo |
 |---|---|
-| [ControleClassico](https://github.com/raphateixeira/ControleClassico) | Sistemas de Controle I — controle clássico contínuo, função de transferência |
-| [ControleEstados](https://github.com/raphateixeira/ControleEstados) | Controle por espaço de estados |
+| [ControleClassico](https://github.com/raphateixeira/Ensino/tree/main/ControleClassico) | Sistemas de Controle I — controle clássico contínuo, função de transferência |
+| [ControleEstados](https://github.com/raphateixeira/Ensino/tree/main/ControleEstados) | Controle por espaço de estados |
 | [Controle Digital](https://raphateixeira.github.io/Notas/fundamentos/controle-digital/) | Sistemas de controle digital (Ogata, Aguirre) — tema em [Notas](https://github.com/raphateixeira/Notas) |
-| [MetodosNumericos](https://github.com/raphateixeira/MetodosNumericos) | Fundamentos matemáticos e algoritmos numéricos |
-| [AlgebraLinear](https://github.com/raphateixeira/AlgebraLinear) | Álgebra Linear (UFPA) |
-| [TEControle](https://github.com/raphateixeira/TEControle) | Tópicos Especiais em Controle e Aprendizagem de Máquina |
+| [MetodosNumericos](https://github.com/raphateixeira/Ensino/tree/main/MetodosNumericos) | Fundamentos matemáticos e algoritmos numéricos |
+| [AlgebraLinear](https://github.com/raphateixeira/Ensino/tree/main/AlgebraLinear) | Álgebra Linear (UFPA) |
+| [TEControle](https://github.com/raphateixeira/Notas/tree/main/topicos-controle) | Tópicos Especiais em Controle e Aprendizagem de Máquina |
 
 ### ⚡ Controle & eletrônica de potência
 
 - **[ConversoresPotencia](https://github.com/raphateixeira/ConversoresPotencia)** — conversor Buck, inversor trifásico e microrredes: simulação, firmware C2000 e ensaios
-- **[ControleDFIG](https://github.com/raphateixeira/ControleDFIG)** — controle de gerador de indução duplamente alimentado (aerogeradores)
+- **[ControleDFIG](https://github.com/raphateixeira/ConversoresPotencia/tree/main/DFIG)** — controle de gerador de indução duplamente alimentado (aerogeradores)
 - **[ControleCC2CC](https://github.com/raphateixeira/ControleCC2CC)** — IC em identificação e controle de conversores CC-CC (Buck, Boost, Buck-Boost)
 
 ### 🧪 Identificação de sistemas
@@ -49,27 +49,27 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 - **[LabVirtual](https://github.com/raphateixeira/LabVirtual)** — laboratório virtual para modelagem e controle de sistemas dinâmicos
 - **[Projeto-Aeropendulo](https://github.com/raphateixeira/Projeto-Aeropendulo)** — projeto do aeropêndulo
 - **[FiltroSK](https://github.com/raphateixeira/FiltroSK)** — identificação e controle aplicados a filtro Sallen-Key
-- **[CircuitosCA](https://github.com/raphateixeira/CircuitosCA)** — notas de circuitos de corrente alternada
+- **[CircuitosCA](https://github.com/raphateixeira/Ensino/tree/main/CircuitosCA)** — notas de circuitos de corrente alternada
 
 ### 🩺 Diagnóstico inteligente de equipamentos
 
-- **[AnaliseDGA](https://github.com/raphateixeira/AnaliseDGA)** — sistema de diagnóstico inteligente de transformadores de potência (ANN, KNN, DUVAL), com o conjunto de dados de gases dissolvidos em óleo (DGA) usado no treinamento
+- **[AnaliseDGA](https://github.com/raphateixeira/Orientacoes/tree/main/AnaliseDGA)** — sistema de diagnóstico inteligente de transformadores de potência (ANN, KNN, DUVAL), com o conjunto de dados de gases dissolvidos em óleo (DGA) usado no treinamento
 
 ### 🤖 Machine Learning, Deep Learning & leituras comentadas
 
-- **[DeepLearning](https://github.com/raphateixeira/DeepLearning)** — notas e notebooks de aprendizagem de máquina e deep learning aplicada
-- **[Manim](https://github.com/raphateixeira/Manim)** — coleção de animações matemáticas/didáticas
+- **[DeepLearning](https://github.com/raphateixeira/Ensino/tree/main/DeepLearning)** — notas e notebooks de aprendizagem de máquina e deep learning aplicada
+- **[Manim](https://github.com/raphateixeira/Notas/tree/main/manim)** — coleção de animações matemáticas/didáticas
 
 ### 🎓 Orientações — Mestrado & TCC
 
 - **[IdentificacaoJusante](https://github.com/raphateixeira/IdentificacaoJusante)** — modelagem da dinâmica hidrológica para previsão do nível de jusante da UHE Tucuruí
 - **[MScOseias](https://github.com/raphateixeira/MScOseias)** — controle MPC-FSC de conversor VSC trifásico e gêmeo digital para laboratório virtual
-- **[MScRaphael](https://github.com/raphateixeira/MScRaphael)** — dissertação de mestrado
-- **[TCC-PID-AlgoritmoGenetico](https://github.com/raphateixeira/TCC-PID-AlgoritmoGenetico)** — trabalho de conclusão de curso
+- **[MScRaphael](https://github.com/raphateixeira/Orientacoes/tree/main/DiagnosticoMalaria)** — dissertação de mestrado
+- **[TCC-PID-AlgoritmoGenetico](https://github.com/raphateixeira/Orientacoes/tree/main/PIDAlgoritmoGenetico)** — trabalho de conclusão de curso
 
 ### 🧰 Templates & ferramentas
 
-- **[TikZ](https://github.com/raphateixeira/TikZ)** — figuras em TikZ para materiais didáticos
+- **[TikZ](https://github.com/raphateixeira/Notas/tree/main/tikz)** — figuras em TikZ para materiais didáticos
 
 ### 🛠️ Stack
 
