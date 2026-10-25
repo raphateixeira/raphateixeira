@@ -48,7 +48,7 @@ Professor na **Universidade Federal do Pará (UFPA)**, campus de Tucuruí, atuan
 
 - **[LabVirtual](https://github.com/raphateixeira/LabVirtual)** — laboratório virtual para modelagem e controle de sistemas dinâmicos
 - **[Projeto-Aeropendulo](https://github.com/raphateixeira/Projeto-Aeropendulo)** — projeto do aeropêndulo
-- **[FiltroSK](https://github.com/raphateixeira/FiltroSK)** — identificação e controle aplicados a filtro Sallen-Key
+- **[FiltroSK](https://github.com/raphateixeira/ProjetosCCS/tree/main/FiltroSK)** — TCC: identificação e controle aplicados a filtro Sallen-Key (em ProjetosCCS)
 - **[CircuitosCA](https://github.com/raphateixeira/Ensino/tree/main/CircuitosCA)** — notas de circuitos de corrente alternada
 
 ### 🩺 Diagnóstico inteligente de equipamentos
